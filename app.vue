@@ -1,6 +1,8 @@
 <template>
   <div>
     <!-- Remove this component to get started! -->
-    <NuxtWelcome />
+    <NuxtLayout>
+      <NuxtPage> </NuxtPage>
+    </NuxtLayout>
   </div>
 </template>

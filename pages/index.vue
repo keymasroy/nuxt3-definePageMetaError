@@ -1,7 +1,4 @@
 <template>
-<div>
-<h2>Hallo Welt<h2/>
-<nuxt-link to="/">Back<nuxt-link/>
-</div>
-
+  <div>Index Page</div>
 </template>
+<script lang="ts" setup></script>
